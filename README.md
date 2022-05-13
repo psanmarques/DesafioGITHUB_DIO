@@ -1,2 +1,2 @@
 # DesafioGITHUB_DIO
-Primeiro Desafio de Projeto Sobre GIT/GITHUB
+Depositório do primeiro desafio de projeto DIO de GIT/GITHUB
